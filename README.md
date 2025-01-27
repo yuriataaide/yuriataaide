@@ -1,6 +1,6 @@
 ## Welcome! I'm Yuri
 
-![Yuri Ataide's GitHub stats](https://github-readme-stats-yuriataaides-projects.vercel.app/api?username=yuriataaide&theme=dark&show_icons=true])
+<img align="left" alt="Yuri Ataide's Github Stats" src="https://github-readme-stats-yuriataaides-projects.vercel.app/api?username=yuriataaide&show_icons=true&hide_border=true"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Yuri-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
