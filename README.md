@@ -1,10 +1,6 @@
 ## Welcome! I'm Yuri
 
-<div>
-  <a href="https://keepo.io/ataaide">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yuriataaide&show_icons=true&theme=dark&include_all_commits=true&count_private=true&show=prs_merged">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuriataaide&size_weight=0.5&count_weight=0.5&theme=dark">
-  </a>
+![Yuri Ataide's GitHub stats](https://github-readme-stats-yuriataaides-projects.vercel.app/api?username=yuriataaide&theme=dark&show_icons=true])
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Yuri-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
